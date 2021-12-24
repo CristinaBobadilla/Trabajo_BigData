@@ -9,7 +9,7 @@
 
 - Análisis de datos de propiedades.pptx: *Presentación PPT donde se resume la investigación*
 
-- trabajofinalpropiedades.mp4: *Presentación en archivo mp4 del PPT llamado “Análisis de datos de propiedades.pptx” *
+- trabajofinalpropiedades.mp4: *Presentación en archivo mp4 del PPT llamado* “*Análisis de datos de propiedades.pptx*” 
 
 - incluidovalorUFm2.csv: *Este archivo csv contiene las variables del archivo propiedades.csv + la variable de valor UF por m2*
 
