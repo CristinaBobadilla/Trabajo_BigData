@@ -1,17 +1,17 @@
 # Trabajo_BigData
  Trabajo final
 
-##A continuación se muestra una breve descripción de los archivos en el repositorio y sus elementos.
+A continuación se muestra una breve descripción de los archivos en el repositorio y sus elementos.
 
-trabajofinalbigdatapropiedades.R: *Códigos de extracción de datos hasta la creación de archivo csv*
+-trabajofinalbigdatapropiedades.R: *Códigos de extracción de datos hasta la creación de archivo csv*
 
-graficosparatrabajofinalpropiedades.R: *Códigos para la creación de gráficos en base a los datos del csv llamado trabajofinalbigdatapropiedades.R*
+-graficosparatrabajofinalpropiedades.R: *Códigos para la creación de gráficos en base a los datos del csv llamado trabajofinalbigdatapropiedades.R*
 
-Análisis de datos de propiedades.pptx: *Presentación PPT donde se resume la investigación*
+-Análisis de datos de propiedades.pptx: *Presentación PPT donde se resume la investigación*
 
-trabajofinalpropiedades.mp4: *Presentación en archivo mp4 del PPT llamado “Análisis de datos de propiedades.pptx” *
+-trabajofinalpropiedades.mp4: *Presentación en archivo mp4 del PPT llamado “Análisis de datos de propiedades.pptx” *
 
-incluidovalorUFm2.csv: *Este archivo csv contiene las variables del archivo propiedades.csv + la variable de valor UF por m2*
+-incluidovalorUFm2.csv: *Este archivo csv contiene las variables del archivo propiedades.csv + la variable de valor UF por m2*
 
 *Descripción de las variables:*
 
