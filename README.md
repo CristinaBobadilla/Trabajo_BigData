@@ -1,7 +1,7 @@
 # Trabajo_BigData
  Trabajo final
 
-A continuación se muestra una breve descripción de los archivos en el repositorio y sus elementos.
+## A continuación se muestra una breve descripción de los archivos en el repositorio y sus elementos.
 
 -trabajofinalbigdatapropiedades.R: *Códigos de extracción de datos hasta la creación de archivo csv*
 
